@@ -1,2 +1,7 @@
-#env
+# Environment
 MLPG2/
+
+# model
+src/model.pkl
+
+__pycache__/
